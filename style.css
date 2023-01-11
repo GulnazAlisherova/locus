@@ -80,6 +80,9 @@ body {
 .navbar img {
   margin: 7px;
 }
+.navbar h2{
+  font-weight: 800;
+}
 .navbar button {
   color: white;
   background-color: #58a9a5;
