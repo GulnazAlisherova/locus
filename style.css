@@ -64,6 +64,7 @@ body {
 }
 .navbar ul {
   display: flex;
+  margin-left: 7rem;
 
 }
 .navbar ul li {
@@ -95,11 +96,12 @@ body {
   background-color: #58a9a5;
   border: none;
   border-radius: 15px;
-  padding: 1rem 2.4rem;
+  padding: .2rem 2rem;
   font-weight: 500;
-  font-size: 23px;
+  font-size: 20px;
   line-height: 37px; 
   position: relative;
   display: inline-block; 
+  margin-left: 7rem;
 }
  
