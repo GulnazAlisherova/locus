@@ -117,7 +117,9 @@ header p {
   font-size: 20px;
   line-height: 30px;
 }
-.btn-2
+.btn-2{
+  font-weight: 700;
+}
 .design {
   position: absolute;
   height: 600px;
