@@ -143,4 +143,7 @@ main{
 .video p, h6{
   margin: 2rem;
   color:#486958;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 30px;
 }
