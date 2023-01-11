@@ -58,7 +58,9 @@ body {
 .col-12 {
   flex: 0 0 100%;
 }
- 
+.navbar{
+  display: flex;
+}
 .navbar ul {
   display: flex;
 }
@@ -75,4 +77,5 @@ body {
   background-color: #58A9A5;
   border: none;
   border-radius: 15px;
+  padding: 1rem 2.4rem;
 }
