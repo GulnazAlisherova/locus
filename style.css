@@ -58,10 +58,13 @@ body {
 .col-12 {
   flex: 0 0 100%;
 }
+.navbar ul {
+  display: flex;
+}
 .navbar ul li {
   list-style-type: none;
 }
-.navbar a {
+.navbar li a {
   text-decoration: none;
-  color: 404242;
+  color: #404242;
 }
