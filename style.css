@@ -120,6 +120,7 @@ header p {
 .btn-2{
   font-weight: 700;
   line-height: 38px;
+  border: none;
 }
 .design {
   position: absolute;
