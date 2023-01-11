@@ -123,7 +123,8 @@ header p {
   border: none;
   background-color: #58A9A5;
   color: white;
-  border-radius: 20px 20px 20px 0px;
+  width: 260px;
+  border-radius: 10px 10px 10px 0px;
 }
 .design {
   position: absolute;
