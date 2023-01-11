@@ -73,4 +73,5 @@ body {
 .navbar button{
   color: white;
   background-color: #58A9A5;
+  border: none;
 }
