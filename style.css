@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Roboto:wght@700&display=swap");
 
-body{
+body {
   margin: 0;
   position: absolute;
 }
@@ -56,4 +56,10 @@ body{
 }
 .col-12 {
   flex: 0 0 100%;
+}
+.navbar ul li{
+  list-style-type: none;
+}
+.navbar a{
+  text-decoration: none;
 }
