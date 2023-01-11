@@ -106,18 +106,18 @@ body {
 header {
   margin: 2rem;
 }
-header h1{
+header h1 {
   font-weight: 800;
   font-size: 50px;
   line-height: 85px;
 }
-header p{
+header p {
   color: #404242;
 }
-.design { 
-  position: absolute; 
-  height: 700px;  
-  background: #ccf0e6; 
+.design {
+  position: absolute;
+  height: 700px;
+  background: #ccf0e6;
   border-radius: 120px;
   margin: 1rem 2rem;
 }
