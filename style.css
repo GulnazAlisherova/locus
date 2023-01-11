@@ -72,10 +72,13 @@ body {
 .navbar li a {
   text-decoration: none;
   color: #404242;
-  font-size: 25px;
-  line-height: 38px;
+  font-size: 23px;
+  line-height: 33px;
   font-weight: 400;
   padding: 2rem;
+}
+.navbar li a:hover{
+  color: #58A9A5;
 }
 .navbar img {
   margin: 7px;
@@ -83,6 +86,7 @@ body {
 .navbar h2{
   font-weight: 800;
   color: #58A9A5;
+  
 }
 .navbar button {
   color: white;
@@ -91,7 +95,7 @@ body {
   border-radius: 15px;
   padding: 1rem 2.4rem;
   font-weight: 500;
-  font-size: 25px;
+  font-size: 23px;
   line-height: 37px; 
   position: relative;
   display: inline-block; 
