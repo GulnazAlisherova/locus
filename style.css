@@ -4,3 +4,6 @@ body{
   margin: 0;
   position: absolute;
 }
+* {
+  box-sizing: border-box;
+}
