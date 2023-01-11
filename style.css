@@ -134,5 +134,9 @@ header p {
   margin: 1rem 2rem;
 }
 main{
-  margin: 9rem 4rem 7rem 4rem;
+  margin: 9rem 2rem 7rem 4rem;
+}
+.video{
+  display: inline-flex;
+  background-color:#CCF0E6;
 }
