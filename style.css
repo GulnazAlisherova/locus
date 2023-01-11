@@ -9,7 +9,7 @@ body {
   box-sizing: border-box;
 }
 .container {
-  max-width: 1349px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 .row {
@@ -63,4 +63,5 @@ body {
 }
 .navbar a {
   text-decoration: none;
+  color: 404242;
 }
