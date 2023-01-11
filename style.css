@@ -65,7 +65,6 @@ body {
 .navbar ul {
   display: flex;
   margin-left: 7rem;
-
 }
 .navbar ul li {
   list-style-type: none;
@@ -78,30 +77,39 @@ body {
   font-weight: 400;
   padding: 2rem;
 }
-.navbar li a:hover{
-  color: #58A9A5;
-  border-bottom: 4px solid #FEC62D;
-  transition: .2s;
+.navbar li a:hover {
+  color: #58a9a5;
+  border-bottom: 4px solid #fec62d;
+  transition: 0.2s;
 }
 .navbar img {
   margin: 7px;
 }
-.navbar h2{
+.navbar h2 {
   font-weight: 800;
-  color: #58A9A5;
-  
+  color: #58a9a5;
 }
 .navbar button {
   color: white;
   background-color: #58a9a5;
   border: none;
   border-radius: 15px;
-  padding: .2rem 2rem;
+  padding: 0.2rem 2rem;
   font-weight: 500;
   font-size: 20px;
-  line-height: 37px; 
+  line-height: 37px;
   position: relative;
-  display: inline-block; 
+  display: inline-block;
   margin-left: 7rem;
 }
- 
+
+header {
+  margin: 2rem;
+}
+.design { 
+  position: absolute; 
+  height: 700px;  
+  background: #ccf0e6; 
+  border-radius: 120px;
+  margin: 1rem 2rem;
+}
