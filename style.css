@@ -79,6 +79,7 @@ body {
 }
 .navbar li a:hover{
   color: #58A9A5;
+  border-bottom: 4px solid #FEC62D;
 }
 .navbar img {
   margin: 7px;
