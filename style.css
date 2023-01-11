@@ -60,6 +60,7 @@ body {
 }
 .navbar{
   display: flex;
+  margin: 2rem;
 }
 .navbar ul {
   display: flex;
