@@ -106,6 +106,9 @@ body {
 header {
   margin: 2rem;
 }
+header h1{
+  font-weight: 800;
+}
 .design { 
   position: absolute; 
   height: 700px;  
