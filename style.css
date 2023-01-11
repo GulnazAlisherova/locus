@@ -137,6 +137,9 @@ main{
   margin: 9rem 2rem 7rem 4rem;
 }
 .video{
-  display: inline-flex;
-  background-color:#CCF0E6;
+  display:  flex;
+  background-color:#CCF0E6; 
+}
+.video p, h6{
+  margin: 2rem;
 }
