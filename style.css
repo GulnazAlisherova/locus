@@ -185,4 +185,6 @@ main p {
 }
 .project p {
   color: #404242;
+  font-weight: 400;
+  font-size: 30px;
 }
