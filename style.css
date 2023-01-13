@@ -189,7 +189,7 @@ main p {
   font-weight: 400;
   font-size: 25px;
 }
-.project-2{
+.project-2 {
   margin: 1rem;
 }
 .project-2 h3 {
@@ -204,10 +204,11 @@ main p {
   font-size: 15px;
   line-height: 30px;
 }
-.testimonial{
+.testimonial {
   text-align: center;
+  margin: 3rem;
 }
-.testimonial h1{
+.testimonial h1 {
   font-weight: 800;
   font-size: 60px;
 }
