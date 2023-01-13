@@ -204,3 +204,10 @@ main p {
   font-size: 15px;
   line-height: 30px;
 }
+.testimonial{
+  text-align: center;
+}
+.testimonial h1{
+  font-weight: 800;
+  font-size: 60px;
+}
