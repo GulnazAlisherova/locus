@@ -172,4 +172,6 @@ main p {
 .deliver p {
   color: #486958;
   font-weight: 500;
+  font-size: 23px;
+  line-height: 45px;
 }
