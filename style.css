@@ -117,11 +117,11 @@ header p {
   font-size: 20px;
   line-height: 30px;
 }
-.btn-2{
+.btn-2 {
   font-weight: 700;
   line-height: 38px;
   border: none;
-  background-color: #58A9A5;
+  background-color: #58a9a5;
   color: white;
   width: 250px;
   border-radius: 10px 10px 10px 0px;
@@ -133,22 +133,23 @@ header p {
   border-radius: 120px;
   margin: 1rem 2rem;
 }
-main{
+main {
   margin: 9rem 2rem 7rem 4rem;
-
 }
-[class^="video"]  {
-  display:flex;
-  background-color:#CCF0E6; 
+[class^="video"] {
+  display: flex;
+  background-color: #ccf0e6;
 }
-.video p, h6{
+.video p,
+h6 {
   margin: 2rem;
-  color:#486958;
+  color: #486958;
   font-weight: 600;
   font-size: 16px;
   line-height: 30px;
 }
 
-main h2{
+main h2 {
   text-align: center;
+  color: #1c2323;
 }
