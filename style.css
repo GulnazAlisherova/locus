@@ -175,3 +175,11 @@ main p {
   font-size: 23px;
   line-height: 45px;
 }
+.project{
+  text-align: center;
+  margin: 3rem 30rem;
+}
+.project h1{
+  font-weight: 800;
+  
+}
