@@ -208,6 +208,11 @@ main p {
   text-align: center;
   margin: 3rem;
 }
+.testimonial img{
+  margin:10px 2rem;
+  width: 200px;
+  
+}
 .testimonial h1 {
   font-weight: 800;
   font-size: 60px;
