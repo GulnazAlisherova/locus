@@ -178,6 +178,7 @@ main p {
 .project {
   text-align: center;
   margin: 3rem 20rem;
+  border-bottom: 4px solid #58A9A5;
 }
 .project h1 {
   font-weight: 800;
@@ -186,5 +187,6 @@ main p {
 .project p {
   color: #404242;
   font-weight: 400;
-  font-size: 30px;
+  font-size: 25px;
+  
 }
