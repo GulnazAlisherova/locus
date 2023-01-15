@@ -246,6 +246,7 @@ footer {
 }
 .contact {
   margin: 1rem;
+  border-bottom: 3px solid #58a9a5;
 }
 .contact a {
   text-decoration: none;
