@@ -168,18 +168,22 @@
           <div class="col-5">
             <div class="contact">
               <a href="#">Contact us</a>
-              <p>Have any questions? Want help
-                before getting started?</p>
+              <p>Have any questions? Want help before getting started?</p>
             </div>
           </div>
           <div class="col-7">
             <div class="inputs">
               <form action="/action_page.php">
-                First name: <input type="text" name="fname"><br>
-                Last name: <input type="text" name="lname"><br>
-              
+                <input type="text" name="fname" placeholder="First Name" /><br />
+               <input type="text" name="lname" placeholder=" Last name"/><br />
               </form>
-              <button class="btn-1"></button>
+              <form class="has-success has-feedback has-feedback-left">
+                <label class="control-label sr-only" for="inputSearch">Search U.K. house price data</label>
+                <input class="form-control" type="text" id="inputSearch" placeholder="Enter a postcode, street or address">
+                <span class="glyphicon glyphicon-search form-control-feedback"></span>
+                <button class="btn" type="submit">SEARCH</button>
+            </form>
+              <button class="btn-1">Send now</button>
             </div>
           </div>
         </div>
