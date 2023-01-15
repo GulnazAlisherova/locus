@@ -245,7 +245,7 @@ footer {
   width: 900px;
 }
 .contact {
-  margin: 1rem; 
+  margin: 1rem;
 }
 .contact a {
   text-decoration: none;
@@ -260,13 +260,13 @@ footer {
   font-weight: 500;
   line-height: 30px;
 }
-.inputs{
+.inputs {
   border: 1px solid #486958;
   margin: 2rem;
   padding: 2rem;
 }
-.inputs input{
+.inputs input {
   border: none;
   border-bottom: 1px solid black;
-  padding: 19px 0;
-}
+  padding: 19px 0;  
+} 
