@@ -242,9 +242,10 @@ main p {
 }
 footer {
   margin: 6rem 2rem;
+  width: 900px;
 }
 .contact {
-  margin: 1rem;
+  margin: 1rem; 
 }
 .contact a {
   text-decoration: none;
@@ -253,8 +254,9 @@ footer {
   font-size: 60px;
   line-height: 90px;
 }
+
 .contact p {
   color: #486958;
   font-weight: 500;
-  line-height: 37px;
+  line-height: 30px;
 }
