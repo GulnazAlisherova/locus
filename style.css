@@ -265,3 +265,7 @@ footer {
   margin: 2rem;
   padding: 2rem;
 }
+.inputs input{
+  border: none;
+  border-bottom: 1px solid black;
+}
