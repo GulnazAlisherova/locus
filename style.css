@@ -216,6 +216,9 @@ main p {
   font-weight: 800;
   font-size: 60px;
 }
-.roscoe {
+.penalty-footer {
   background-color: #ccf0e6;
+}
+.roscoe h2 {
+  color: #58a9a5;
 }
