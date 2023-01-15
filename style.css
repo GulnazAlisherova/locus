@@ -223,9 +223,10 @@ main p {
   color: #58a9a5;
   font-weight: 800;
   font-size: 60px;
-  line-height: 100px;
+  line-height: 90px;
 }
 .roscoe h4 {
   color: #58a9a5;
-  font-weight: 800;
+  font-weight: 600;
+  font-size: 35px;
 }
