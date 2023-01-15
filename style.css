@@ -240,13 +240,19 @@ main p {
   font-weight: 500;
   font-size: 20px;
 }
-footer{
-  margin: 6rem 4rem;
+footer {
+  margin: 6rem 2rem;
 }
-.contact a{
+.contact {
+  margin: 1rem;
+}
+.contact a {
   text-decoration: none;
-  color: #1C2323;
+  color: #1c2323;
   font-weight: 800;
   font-size: 60px;
-  line-height: 100px;
+  line-height: 90px;
+}
+.contact p {
+  color: #486958;
 }
